@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Hyeonseo Park
+Nice to meet you.
+---
+## 🚀 About Me
+- 🎓 B.S. in Food Science and Biotechnology, Seoul National University of Korea
+- 💡 Interested in NLP, ML. 
+---
+## 🛠 Tech Stack
 
-<!--
-**tthnso/tthnso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Languages
+- [Python], [SQL]
 
-Here are some ideas to get you started:
+### 📊 Data & ML
+- Pandas, NumPy, Scikit-learn / PyTorch,TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+## 🔥Activities
+BITAmin (AI Club) — 16th Member | (Jul 2025 – present)
+
+---
+## 📫 Contact
+- Email: tthnso@snu.ac.kr, - LinkedIn: [linkedin](https://www.linkedin.com/in/tthnso/)
+
+---
